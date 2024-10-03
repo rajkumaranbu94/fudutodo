@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900490072560",
+    "project_id": "fudu-todo",
+    "storage_bucket": "fudu-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900490072560:android:2241e009f4b2094724cd35",
+        "android_client_info": {
+          "package_name": "com.fudu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEFk62JQTCPKjc1NeRh_qpG9p2w7aYxgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
